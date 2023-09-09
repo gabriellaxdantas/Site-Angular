@@ -1,0 +1,19 @@
+
+.menu-bar_container > ul{
+  display: flex;
+  flex-direction: row;
+
+}
+
+.menu-bar_container > ul > li{
+  margin: 0px 20px 0px 0px;
+  list-style: none;
+  font-size: 22px;
+}
+
+.menu-bar_container > ul > li:hover {
+  text-decoration: underline;
+  color: #FFC321;
+  transition: text-decoration-color 0.5s ease-in-out;
+}
+

@@ -1,0 +1,17 @@
+.menu_title_container{
+  color: #ffffff;
+}
+
+.menu_title_container > h1{
+  margin: 15px 0px 15px 0px;
+  font-size: 180px;
+  display: flex;
+  justify-content: center;
+  font-weight: 800;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.menu_title_container > hr{
+  margin: 20px 0px 0px 0px
+
+}
