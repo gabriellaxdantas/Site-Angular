@@ -9,7 +9,7 @@
 }
 .small-card_image > img {
   width:250px;
-  height: 200px;
+  height: 180px;
   margin: 0px 20px 0px 0px;
 }
 
@@ -17,6 +17,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.small-card_title > h1{
+ font-size: 28px;
 }
 
 .small-card-line_container{
