@@ -1,0 +1,15 @@
+@media screen and (max-width=480px) {
+  .big_card_container{
+    /* border: solid white 2px; */
+    width: 400px;
+    height: 500px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content:flex-start;
+    margin: 0px 20px 0px 20px;
+  }
+  .big-card_image > img {
+    width: 280px;
+  }
+}
